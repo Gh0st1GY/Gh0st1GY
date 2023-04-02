@@ -1,17 +1,21 @@
 ### Hi there 👋
 
 About me:
- 1. I come from 🇫🇷
- 1. I am 17yo
- 1. I am in CyberSecurity school
- 1. I do: Dev/PenTesting/Osint and Steganography
- 1. Web Enthusiast 
+ - I come from 🇫🇷
+ - I am 17yo
+ - I am in CyberSecurity school
+ - I do: Dev/PenTesting/Osint and Steganography
+ - Web Enthusiast 
 
 ### My OS 💻
 
- 1. Trial boot: Kali Linux/BlackArch/Windows
+ - Trial boot: Kali Linux/BlackArch/Windows
 
 `sudo apt-get install metasploit`
+
+### Stars 📊
+
+![Gh0st Github Stats](https://github-readme-stats.vercel.app/api?username=gh0st1gy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### My skills ⚙️
 
@@ -32,5 +36,3 @@ class Gh0st1GY:
 
 if __name__ == '__main__':
     me = Gh0st1GY()```
-
-### My stats 📊
