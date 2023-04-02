@@ -35,4 +35,5 @@ class Gh0st1GY:
 
 
 if __name__ == '__main__':
-    me = Gh0st1GY()```
+    me = Gh0st1GY()
+```
