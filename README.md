@@ -9,7 +9,7 @@ About me:
 
 ### My OS 💻
 
- - Trial boot: Kali Linux/BlackArch/Windows
+ - Trial boot: Garuda/BlackArch/Windows
 
 `sudo apt-get install metasploit & some-friends😅`
 
