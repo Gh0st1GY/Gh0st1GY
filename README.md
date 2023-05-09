@@ -24,7 +24,7 @@ class Gh0st1GY:
         self.web = 'https://i.root.sx'
         self.discord = 'discord.gg/illegality'
         self.code = {
-            'langages': ['HTML', 'CSS', 'JavaScript', 'Ruby', 'Python', 'PHP', 'C#', 'C++'],
+            'langages': ['HTML', 'CSS', 'JavaScript', 'Ruby', 'Python', 'PHP', 'C#', 'C++', 'C', 'ASM'],
         }
     def __str__(self):
         return self.name
